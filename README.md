@@ -8,6 +8,10 @@ These code conventions are grouped in several categories:
 
 ### [Sintaxis](sintaxis)
 
+### [General](general)
+
+### [External Libraries](libraries)
+
 ### [Testing](testing)
 
 ### [Source Version Control](versioncontrol)
