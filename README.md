@@ -8,7 +8,7 @@ These code conventions are grouped in several categories:
 
 ### [Sintaxis](sintaxis)
 
-### [General](general)
+### [General Java](general_java)
 
 ### [External Libraries](libraries)
 
