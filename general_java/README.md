@@ -1,6 +1,6 @@
 # General (JAVA)
 
-### Utility class
+### Utility class -> Local Extension
 
 If you have to extend an existing class to add extra operations, you may be tempted to use an utility class with static methods. 
 
