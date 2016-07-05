@@ -4,12 +4,12 @@ Following repo is a document with the goal to provide some Code Conventions that
 
 These code conventions are grouped in several categories:
 
-### [Developer Actitude](actitude/README.md)
+### [Developer Actitude](actitude)
 
-### Sintaxis
+### [Sintaxis](sintaxis)
 
-### Persistence
+### [Persistence](persistence)
 
-### Testing
+### [Testing](testing)
 
-### Source Version Control
+### [Source Version Control](versioncontrol)
