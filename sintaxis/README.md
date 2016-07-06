@@ -46,8 +46,8 @@ Example of bad use:
 
 Should not be used. 
 
-Whenever a blank line is to be inserted, you should think why is this needed? i
-Is it because you want to separate one block of lines of code from another because they do different things. Maybe this is a smell that tells you that  the method is not using code of the same level of abstraction and should be refactored in other methods to be read in a clearer way.
+Whenever a blank line is to be inserted, you should think: "why is this needed?"
+Is it because you want to separate one block of lines of code from another because they do different things? Maybe this is a smell that tells you that the method is not using code of the same level of abstraction and should be refactored in other methods to be read in a clearer way.
 
 ### Comments
 
@@ -88,10 +88,8 @@ Can be updated to this:
 There is an exception with comments in classes. If you think a comment in a class may be usefull, we are ok with it. Example:
 
     /**
-     *
-     - Scheduler encargado de obtener y procesar las apuestas pendientes de ser enviadas a las administraciones.
-     *
-     */
+     * Scheduler encargado de obtener y procesar las apuestas pendientes de ser enviadas a las administraciones.
+     **/
     @Singleton
     public class ApuestasDeliverScheduler {
 
@@ -104,4 +102,4 @@ You should disable the automatic code templates that add a comment in every new 
     *  Created by marcoslop in 10/06/2016
     **/
 
-This comments don´t contribute with anything interesting. If we want to know who created this file we can check it in the source control version.
+This comments don´t contribute with anything interesting. If we want to know who created this file we can check it in the version control.
