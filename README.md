@@ -14,6 +14,6 @@ These code conventions are grouped in several categories:
 
 ### [Testing](testing)
 
-### [Source Version Control](versioncontrol)
+### [Control Version](controlversion)
 
 ### [Persistence](persistence)
