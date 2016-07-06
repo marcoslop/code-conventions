@@ -11,9 +11,9 @@ Use Lombok whenever is possible:
 
 ### Logger
 
-When using Logger never concatenate strings. Use this way instead:
+When using Logger never concatenate strings.
 
-Insteado of using:
+Instead of using:
 
     log.info("Generating pages for day: "+prefix+" Sorteos: "+sorteos.size());
     
