@@ -11,3 +11,8 @@ Instead of using a utility class, consider using a Local Extension.
 [Refactoring - Local Extension](http://refactoring.com/catalog/introduceLocalExtension.html)
 
 ### Number of returns
+
+### Use Static Factory methods instead of Constructors
+
+Item 1 in Effective Java
+Example in class PenyaInfo.fromPenya(Penya penya)
